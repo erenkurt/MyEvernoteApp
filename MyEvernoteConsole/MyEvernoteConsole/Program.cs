@@ -10,6 +10,7 @@ namespace MyEvernoteConsole
     {
         static void Main(string[] args)
         {
+            Console.Writeline("Github tarafından değişiklik yapıldı.");
         }
     }
 }
